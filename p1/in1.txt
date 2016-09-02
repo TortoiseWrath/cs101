@@ -1,0 +1,4 @@
+zebra	bird  dog
+
+	moose  	 fish
+fish  cat			bird
