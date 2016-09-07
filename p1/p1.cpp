@@ -29,7 +29,7 @@ vector<string> outv(vector<string> in1, vector<string> in2, string type){ //retu
 		if(invector(output,i)) continue; //skip duplicate values
 		output.push_back(i); //add remaining values to output
 	}
-	if(type == "int") sort(output.begin(),output.end(),intcomp); //sort output for type inr
+	if(type == "int") sort(output.begin(),output.end(),intcomp); //sort output for type int
 	else sort(output.begin(),output.end()); //sort output for type str
 	return output;
 }
