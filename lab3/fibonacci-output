@@ -1,0 +1,10 @@
+Fib<0>::value = 1
+Fib<5>::value = 8
+Fib<10>::value = 89
+Fib<15>::value = 987
+Fib<20>::value = 10946
+Fib<25>::value = 121393
+Fib<30>::value = 1346269
+Fib<35>::value = 14930352
+Fib<40>::value = 165580141
+Fib<45>::value = 1836311903

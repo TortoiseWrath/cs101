@@ -1,0 +1,12 @@
+Comb<0,0>::value = 1
+Comb<2,1>::value = 2
+Comb<4,2>::value = 6
+Comb<6,3>::value = 20
+Comb<8,4>::value = 70
+Comb<10,5>::value = 252
+Comb<12,6>::value = 924
+Comb<14,7>::value = 3432
+Comb<16,8>::value = 12870
+Comb<18,9>::value = 48620
+Comb<20,10>::value = 184756
+Comb<30,15>::value = 155117520

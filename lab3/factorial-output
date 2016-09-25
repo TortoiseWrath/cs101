@@ -1,0 +1,9 @@
+Fact<3>::value = 6
+Fact<4>::value = 24
+Fact<5>::value = 120
+Fact<6>::value = 720
+Fact<7>::value = 5040
+Fact<8>::value = 40320
+Fact<10>::value = 3628800
+Fact<15>::value = 1307674368000
+Fact<20>::value = 2432902008176640000
