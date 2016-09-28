@@ -1,7 +1,10 @@
 #include <iostream>
 using namespace std;
 
-
+unsigned long comb (unsigned long n, unsigned long k) {
+	if (k==0) return 1;
+	return comb(n-1,k-1)*n/k;
+}
 
 int main ( ) {
   cout << "comb(0,0) = " << comb(0,0) << endl;

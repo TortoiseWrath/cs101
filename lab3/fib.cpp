@@ -1,7 +1,10 @@
 #include <iostream>
 using namespace std;
 
-
+unsigned long fib (unsigned long n) {
+	if (n<2) return 1;
+	return fib(n-1) + fib(n-2);
+}
 
 int main ( ) {
   cout << "fib(0) = "  << fib(0) << endl;
@@ -18,4 +21,3 @@ int main ( ) {
 // cout << "fib(50) = " << fib(50) << endl;
   return 0;
 }
-

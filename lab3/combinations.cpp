@@ -1,7 +1,17 @@
 #include <iostream>
 using namespace std;
 
+template < unsigned long N, unsigned long K >
+struct Comb
+{
+	enum { value = Comb<N-1,K-1>::value * N/K };
+};
 
+template < unsigned long N >
+struct Comb <N,0>
+{
+	enum { value = 1 };
+};
 
 int main ( ) {
   cout << "Comb<0,0>::value = " << Comb<0,0>::value << endl;
