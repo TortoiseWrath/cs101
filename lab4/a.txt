@@ -1,0 +1,162 @@
+Nations (unsorted)
+	United States	Washington	Dollar	North America	840
+	Mexico	Mexico City	Peso	North America	484
+	Canada	Ottawa	Dollar	North America	124
+	Brazil	Brasilia	Real	South America	76
+	Argentina	Buenos Aires	Peso	South America	32
+	Venezuela	Caracas	Bolivar	South America	862
+	Russia	Moscow	Ruble	Asia & Europe	643
+	Turkey	Ankara	Lira	Asia & Europe	792
+	France	Paris	Euro	Europe	250
+	Spain	Madrid	Euro	Europe	724
+	United Kingdom	London	Pound	Europe	826
+	Italy	Rome	Euro	Europe	380
+	Germany	Berlin	Euro	Europe	276
+	Japan	Tokyo	Yen	Asia	392
+	China	Beijing	Yuan	Asia	156
+	India	New Delhi	Rupee	Asia	356
+	Taiwan	Taipei	Dollar	Asia	158
+	Pakistan	Islamabad	Rupee	Asia	586
+	Iran	Tehran	Rial	Asia	364
+	Sri Lanka	Colombo	Rupee	Asia	144
+	Saudi Arabia	Riyadh	Rial	Asia	682
+	Egypt	Cairo	Pound	Africa	818
+	South Africa	Cape Town	Rand	Africa	710
+	Australia	Canberra	Dollar	Oceania	36
+	New Zealand	Wellington	Dollar	Oceania	554
+
+Nations (sorted by capital)
+	Turkey	Ankara	Lira	Asia & Europe	792
+	China	Beijing	Yuan	Asia	156
+	Germany	Berlin	Euro	Europe	276
+	Brazil	Brasilia	Real	South America	76
+	Argentina	Buenos Aires	Peso	South America	32
+	Egypt	Cairo	Pound	Africa	818
+	Australia	Canberra	Dollar	Oceania	36
+	South Africa	Cape Town	Rand	Africa	710
+	Venezuela	Caracas	Bolivar	South America	862
+	Sri Lanka	Colombo	Rupee	Asia	144
+	Pakistan	Islamabad	Rupee	Asia	586
+	United Kingdom	London	Pound	Europe	826
+	Spain	Madrid	Euro	Europe	724
+	Mexico	Mexico City	Peso	North America	484
+	Russia	Moscow	Ruble	Asia & Europe	643
+	India	New Delhi	Rupee	Asia	356
+	Canada	Ottawa	Dollar	North America	124
+	France	Paris	Euro	Europe	250
+	Saudi Arabia	Riyadh	Rial	Asia	682
+	Italy	Rome	Euro	Europe	380
+	Taiwan	Taipei	Dollar	Asia	158
+	Iran	Tehran	Rial	Asia	364
+	Japan	Tokyo	Yen	Asia	392
+	United States	Washington	Dollar	North America	840
+	New Zealand	Wellington	Dollar	Oceania	554
+
+Nations (sorted by currency then nation)
+	Venezuela	Caracas	Bolivar	South America	862
+	Australia	Canberra	Dollar	Oceania	36
+	Canada	Ottawa	Dollar	North America	124
+	New Zealand	Wellington	Dollar	Oceania	554
+	Taiwan	Taipei	Dollar	Asia	158
+	United States	Washington	Dollar	North America	840
+	France	Paris	Euro	Europe	250
+	Germany	Berlin	Euro	Europe	276
+	Italy	Rome	Euro	Europe	380
+	Spain	Madrid	Euro	Europe	724
+	Turkey	Ankara	Lira	Asia & Europe	792
+	Argentina	Buenos Aires	Peso	South America	32
+	Mexico	Mexico City	Peso	North America	484
+	Egypt	Cairo	Pound	Africa	818
+	United Kingdom	London	Pound	Europe	826
+	South Africa	Cape Town	Rand	Africa	710
+	Brazil	Brasilia	Real	South America	76
+	Iran	Tehran	Rial	Asia	364
+	Saudi Arabia	Riyadh	Rial	Asia	682
+	Russia	Moscow	Ruble	Asia & Europe	643
+	India	New Delhi	Rupee	Asia	356
+	Pakistan	Islamabad	Rupee	Asia	586
+	Sri Lanka	Colombo	Rupee	Asia	144
+	Japan	Tokyo	Yen	Asia	392
+	China	Beijing	Yuan	Asia	156
+
+Nations (sorted by continent then nation)
+	Egypt	Cairo	Pound	Africa	818
+	South Africa	Cape Town	Rand	Africa	710
+	China	Beijing	Yuan	Asia	156
+	India	New Delhi	Rupee	Asia	356
+	Iran	Tehran	Rial	Asia	364
+	Japan	Tokyo	Yen	Asia	392
+	Pakistan	Islamabad	Rupee	Asia	586
+	Saudi Arabia	Riyadh	Rial	Asia	682
+	Sri Lanka	Colombo	Rupee	Asia	144
+	Taiwan	Taipei	Dollar	Asia	158
+	Russia	Moscow	Ruble	Asia & Europe	643
+	Turkey	Ankara	Lira	Asia & Europe	792
+	France	Paris	Euro	Europe	250
+	Germany	Berlin	Euro	Europe	276
+	Italy	Rome	Euro	Europe	380
+	Spain	Madrid	Euro	Europe	724
+	United Kingdom	London	Pound	Europe	826
+	Canada	Ottawa	Dollar	North America	124
+	Mexico	Mexico City	Peso	North America	484
+	United States	Washington	Dollar	North America	840
+	Australia	Canberra	Dollar	Oceania	36
+	New Zealand	Wellington	Dollar	Oceania	554
+	Argentina	Buenos Aires	Peso	South America	32
+	Brazil	Brasilia	Real	South America	76
+	Venezuela	Caracas	Bolivar	South America	862
+
+Nations (sorted by currency then continent then numcode)
+	Venezuela	Caracas	Bolivar	South America	862
+	Taiwan	Taipei	Dollar	Asia	158
+	Canada	Ottawa	Dollar	North America	124
+	United States	Washington	Dollar	North America	840
+	Australia	Canberra	Dollar	Oceania	36
+	New Zealand	Wellington	Dollar	Oceania	554
+	France	Paris	Euro	Europe	250
+	Germany	Berlin	Euro	Europe	276
+	Italy	Rome	Euro	Europe	380
+	Spain	Madrid	Euro	Europe	724
+	Turkey	Ankara	Lira	Asia & Europe	792
+	Mexico	Mexico City	Peso	North America	484
+	Argentina	Buenos Aires	Peso	South America	32
+	Egypt	Cairo	Pound	Africa	818
+	United Kingdom	London	Pound	Europe	826
+	South Africa	Cape Town	Rand	Africa	710
+	Brazil	Brasilia	Real	South America	76
+	Iran	Tehran	Rial	Asia	364
+	Saudi Arabia	Riyadh	Rial	Asia	682
+	Russia	Moscow	Ruble	Asia & Europe	643
+	Sri Lanka	Colombo	Rupee	Asia	144
+	India	New Delhi	Rupee	Asia	356
+	Pakistan	Islamabad	Rupee	Asia	586
+	Japan	Tokyo	Yen	Asia	392
+	China	Beijing	Yuan	Asia	156
+
+Nations (sorted by continent then currency then numcode)
+	Egypt	Cairo	Pound	Africa	818
+	South Africa	Cape Town	Rand	Africa	710
+	Taiwan	Taipei	Dollar	Asia	158
+	Iran	Tehran	Rial	Asia	364
+	Saudi Arabia	Riyadh	Rial	Asia	682
+	Sri Lanka	Colombo	Rupee	Asia	144
+	India	New Delhi	Rupee	Asia	356
+	Pakistan	Islamabad	Rupee	Asia	586
+	Japan	Tokyo	Yen	Asia	392
+	China	Beijing	Yuan	Asia	156
+	Turkey	Ankara	Lira	Asia & Europe	792
+	Russia	Moscow	Ruble	Asia & Europe	643
+	France	Paris	Euro	Europe	250
+	Germany	Berlin	Euro	Europe	276
+	Italy	Rome	Euro	Europe	380
+	Spain	Madrid	Euro	Europe	724
+	United Kingdom	London	Pound	Europe	826
+	Canada	Ottawa	Dollar	North America	124
+	United States	Washington	Dollar	North America	840
+	Mexico	Mexico City	Peso	North America	484
+	Australia	Canberra	Dollar	Oceania	36
+	New Zealand	Wellington	Dollar	Oceania	554
+	Venezuela	Caracas	Bolivar	South America	862
+	Argentina	Buenos Aires	Peso	South America	32
+	Brazil	Brasilia	Real	South America	76
+

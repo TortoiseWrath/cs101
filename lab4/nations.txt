@@ -1,0 +1,26 @@
+Nation           Capital       Currency  Continent      Numcode
+United States    Washington    Dollar    North America  840
+Mexico           Mexico City   Peso      North America  484
+Canada           Ottawa        Dollar    North America  124
+Brazil           Brasilia      Real      South America  76
+Argentina        Buenos Aires  Peso      South America  32
+Venezuela        Caracas       Bolivar   South America  862
+Russia           Moscow        Ruble     Asia & Europe  643
+Turkey           Ankara        Lira      Asia & Europe  792
+France           Paris         Euro      Europe         250
+Spain            Madrid        Euro      Europe         724
+United Kingdom   London        Pound     Europe         826
+Italy            Rome          Euro      Europe         380
+Germany          Berlin        Euro      Europe         276
+Japan            Tokyo         Yen       Asia           392
+China            Beijing       Yuan      Asia           156
+India            New Delhi     Rupee     Asia           356
+Taiwan           Taipei        Dollar    Asia           158
+Pakistan         Islamabad     Rupee     Asia           586
+Iran             Tehran        Rial      Asia           364
+Sri Lanka        Colombo       Rupee     Asia           144
+Saudi Arabia     Riyadh        Rial      Asia           682
+Egypt            Cairo         Pound     Africa         818
+South Africa     Cape Town     Rand      Africa         710
+Australia        Canberra      Dollar    Oceania        36
+New Zealand      Wellington    Dollar    Oceania        554
