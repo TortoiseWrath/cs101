@@ -1,0 +1,5 @@
+Gain = 2600
+Gain = 3000
+Gain = 1254
+Gain = -80900
+Total = -74046
